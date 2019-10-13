@@ -1,5 +1,6 @@
 # godot_zelda_tutorial_demo
-https://www.youtube.com/watch?v=4CLvL05Av6g&amp;list=PLv0bAfkzWSiY4d_FJlQTlFOZh34nrlJZY&amp;index=1
+Tutorial: https://www.youtube.com/watch?v=4CLvL05Av6g&amp;list=PLv0bAfkzWSiY4d_FJlQTlFOZh34nrlJZY&amp;index=1
+Demo: https://hal255.github.io/godot_zelda_tutorial_demo/
 
 ## Steps to host Godot project on GitHub
 Test Bed:
